@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+    <script src="https://kit.fontawesome.com/5caef7d5ba.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div id="header">
+        <div class="container">
+            <nav>
+                <img src="images/M&A-Logo (1).png" class="logo">
+                <ul id="sidemenu">
+                    <li><a href="#header">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#portfolio">Portfolio</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <i class="fas fa-times" onclick="closemenu()"></i>
+                </ul>
+                <i class="fas fa-bars" onclick="openmenu()"></i>
+            </nav>
+            <div class="header-text">
+                <p>UI/UX Designer/ Web Developer</p>
+                <h1>Hi, I'm <span>Meshack,</span> <br>Web Developer <!--<br>from Kenya --></h1>
+            </div>
+        </div>
+    </div>
+<!--About-->
+    <div id="about">
+        <div class="container">
+            <div class="row">
+                <div class="about-col-1">
+                    <img src="images/whatsapp/user.png" alt="">
+                </div>
+                <div class="about-col-1">
+                    <h1 class="sub-title">About Me</h1>
+                    <p>
+                        In this early stage of my career, I am excited to be part of a dynamic team, where I can contribute my skills and soak
+                        up knowledge like a sponge.<br><br>
+                        My days are filled with lines of code, problem-solving, and collaboration with more experienced developers who
+                        generously share their expertise. I'm often working on tasks that challenge me, which is exactly what I signed up for.
+                        <br><br>As an employer, you can count on me to inject fresh energy, innovative thinking, and a tireless work ethic into your
+                        development team. My dedication to excellence and my unwavering commitment to making a difference make me a compelling
+                        asset to any software development endeavor. I am excited to embark on this journey, and I look forward to the exciting
+                        challenges and opportunities that lie ahead.
+                    </p>
+
+                    <div class="tab-titles">
+                        <p class="tab-links active-link" onclick="opentab('skills')">Skills</p>
+                        <p class="tab-links" onclick="opentab('experience')">Experience</p>
+                        <p class="tab-links" onclick="opentab('education')">Education</p>
+                    </div>
+                    <div class="tab-contents active-tab" id="skills">
+                        <ul>
+                            <li><span>UI/UX</span><br>I work as a UI/UX designer, seamlessly merging aesthetics and functionality to create user experiences that flow
+                            effortlessly.</li>
+                            <li><span>Web Development</span><br>I'm a web developer, coding digital experiences one line at a time, and I thrive on turning ideas into interactive
+                            realities.</li>
+                            <li><span>App Development</span><br>I'm an app developer, crafting digital solutions that enhance user experiences, while diligently optimizing every
+                            detail.</li>
+                        </ul>
+                    </div>
+                    <div class="tab-contents" id="experience">
+                        <ul>
+                            <li><span>Aug 2021 to Dec 2021</span><br><b>Cyber Cafe Manager</b><br>
+                            As a cyber cafe manager, I oversee the daily operations of our establishment, ensuring a secure and user-friendly
+                            environment for customers. My responsibilities include managing computer systems, maintaining hardware and software,
+                            providing technical support, and supervising staff. I create a welcoming atmosphere for patrons while also enforcing
+                            security protocols to protect both our systems and customer data. Additionally, I handle financial transactions and
+                            strive to enhance the overall customer experience in our cyber cafe.</li>
+                            <li><span>Sep 2023 to Nov 2023</span><br>Digital Marketing (Attachment)</li>
+                            <!-- <li><span>Duration</span><br>Experience</li> -->
+                        </ul>
+                    </div>
+                    <div class="tab-contents" id="education">
+                        <ul>
+                            <li><span>2022 to 2023</span><br>Higher Diploma Graduate in Software Engineering at Zetech University</li>
+                            <li><span>2017 to 2020</span><br>Kenya Certificate of Secondary Education (KCSE)</li>
+                            <li><span>2009 to 2016</span><br>Kenya Certificate of Primary Education (KCPE)</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<!-----------Services-------------------->
+<div id="services">
+    <div class="container">
+        <h1 class="sub-title">My Services</h1>
+        <div class="services-list">
+            <div>
+                <i class="fa-solid fa-code"></i>
+                <h2>Website Development</h2>
+                <p>I am at the outset of my web development journey, additionally am enthusiastic about acquiring the essential skills and experience required to craft engaging and functional websites.</p>
+                <a href="#">Learn more</a>
+            </div>
+            <div>
+                <i class="fa-solid fa-crop-simple"></i>
+                <h2>UI/UX Design</h2>
+                <p>I'm at the dawn of my UI/UX design career, excited to cultivate the skills and insights necessary to shape exceptional
+                user experiences, fostering a strong connection between products and their audience.</p>
+                <a href="#">Learn more</a>
+            </div>
+            <div>
+                <i class="fa-brands fa-android"></i>
+                <h2>App Design</h2>
+                <p>I am currently in the planning stages of venturing into app design and development, eager to embark on this exciting
+                journey as I gradually build the skills and knowledge needed for creating innovative and user-friendly applications.</p>
+                <a href="#">Learn more</a>
+            </div> 
+        </div>
+    </div>
+</div>
+
+<!----------Portfolio--------->
+<div id="portfolio">
+    <div class="container">
+        <h1 class="sub-title">My Work</h1>
+        <div class="work-list">
+            <div class="work">
+                <img src="images/work-1.png">
+                <div class="layer">
+                    <h3>Social Media App</h3>
+                    <p>Description: This app connects you to the talented
+                        people around the world. Download it from the playstore.
+                    </p>
+                    <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                </div>
+            </div>
+            <div class="work">
+                <img src="images/work-2.png">
+                <div class="layer">
+                    <h3>Web App</h3>
+                    <p>Description: This web application is good in managing the 
+                        subject allocation process in Universities. 
+                        You can get the source code on github. Click the icon below
+                    </p>
+                    <a href="https://github.com/mesho-17/Subject-Allocation-System"><i class="fa-brands fa-github"></i></a>
+                </div>
+            </div>
+            <div class="work">
+                <img src="images/work-3.png">
+                <div class="layer">
+                    <h3>Security camera program</h3>
+                    <p>Description: This program detects any motion infront of the camera 
+                        and alerts using beep sounds when a movement is detected. 
+                        You can get the full source code on my github. Click the icon below.
+                    </p>
+                    <a href="https://github.com/mesho-17/python-security-camera"><i class="fa-brands fa-github"></i></a>
+                </div>
+            </div>
+        </div>
+        <a href="https://github.com/mesho-17" class="btn">See more</a>
+    </div>
+</div>
+
+<!------------------contact----------->
+<div id="contact">
+    <div class="container">
+        <div class="row">
+            <div class="contact-left">
+                <h1 class="sub-title">Contact Me</h1>
+                <p><br>Click to compose email</p>
+                <p><i class="fas fa-paper-plane"></i> <a
+                        href="https://mail.google.com/mail/?view=cm&fs=1&to=pangasmeshack@gmail.com&su=Job Opportunity: Exciting Web Developer Position Available"
+                        target="_blank">pangasmeshack@gmail.com</a></p>
+                        
+                <p><i class="fas fa-phone-square-alt"></i> +254 793057720</p>
+                <div class="social-icons">
+                    <a href="https://twitter.com/Mesh3894"><i class="fa-brands fa-square-x-twitter"></i></a>
+                    <a href=""><i class="fa-brands fa-facebook"></i></a>
+                    <a href=""><i class="fa-brands fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/meshack-kataboi-a6a03b240?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2WXJNSnVRj%2Bk0bY%2FOgzijg%3D%3D"><i class="fa-brands fa-linkedin"></i></a>
+                </div>
+                <a href="images/Kataboi Meshack-CV.pdf" download  class="btn btn2">Download CV</a>
+            </div>
+            <div class="contact-right">
+                <form name="submit-to-google-sheet">
+                    <input type="text" name="NAME" placeholder="Your Name" required>
+                    <input type="email" name="EMAIL" placeholder="Your Email" required>
+                    <textarea name="MESSAGE" rows="6" placeholder="Your Message"></textarea>
+                    <button type="submit" class="btn btn2">Submit</button>
+                </form>
+                <span id="msg"></span> <!--Displays message sent successfully-->
+            </div>
+        </div>
+    </div>
+    <div class="copyright">
+        <p>Copyright @Meshack.<i class="fa-solid fa-code"></i> Software Developer</p>
+    </div>
+</div>
+
+    <script>
+        var tablinks = document.getElementsByClassName("tab-links");
+        var tabcontents = document.getElementsByClassName("tab-contents");
+
+        function opentab(tabname){
+            for(tablink of tablinks){
+                tablink.classList.remove("active-link");
+
+            }
+            for(tabcontent of tabcontents){
+                tabcontent.classList.remove("active-tab");
+            }
+            event.currentTarget.classList.add("active-link");
+            document.getElementById(tabname).classList.add("active-tab");
+        }
+    </script>
+
+    <script>
+        var sidemenu = document.getElementById("sidemenu");
+
+        function openmenu(){
+            sidemenu.style.right = "0"; //whenever right is 0, the menu will be visible
+        }
+        function closemenu(){
+            sidemenu.style.right = "-200px"
+        }
+    </script>
+
+    <script>
+        const scriptURL = 'https://script.google.com/macros/s/AKfycbwW0yK6duE5_Y0o7OkezYHDBUOs8zAwYyAAisZVfsDyCoC2s2fSFNRZk709BABN4DqQMg/exec'
+        const form = document.forms['submit-to-google-sheet']
+        const msg = document.getElementById("msg")
+
+        form.addEventListener('submit', e => {
+            e.preventDefault()
+            fetch(scriptURL, { method: 'POST', body: new FormData(form) })
+                .then(response => {
+                    msg.innerHTML = "Message sent successfully"
+                    setTimeout(function(){
+                        msg.innerHTML = ""
+                    },5000) //5000ms
+                    form.reset()
+                })
+                .catch(error => console.error('Error!', error.message))
+        })
+    </script>
+
+</body>
+</html>
