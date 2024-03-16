@@ -388,7 +388,7 @@ nav .fas{
     }
     /* Header Top */
     #header-top {
-        /* height: 60px; */
+        height: 0;
         position: fixed;
         left: 0;
         top: 0;
