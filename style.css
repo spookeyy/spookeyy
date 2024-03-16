@@ -370,7 +370,7 @@ nav .fas{
         font-size: 55%;
     }
 }
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 991px){
     #header{
         background-image: url(images/Mybackground-transformed.png);
         width: 100vw;
@@ -386,17 +386,33 @@ nav .fas{
         flex-wrap: wrap;
         width: 100vw;
     }
+    /* Header Top */
+    #header-top {
+        height: 75px;
+        position: fixed;
+        left: 0;
+        top: 0;
+        right: 0;
+        background:black;
+    }
     nav .fas {
         display: block;
         font-size: 25px;
         cursor: pointer;
+        line-height: 0;
+        transition: 0.5s;
+        position: fixed;
+        right: 15px;
+        top: 85px;
     }
+
     nav ul{
-        background: #5067e9;
+        background: #4d60ce;
         float: right;
         position: fixed;
-        top: 0;
-        right: -200px;
+        top: 60px;
+        /* right: -200px; */
+        right: 15px;
         width: 200px;
         height: 100vh;
         padding-top: 50px;
@@ -436,6 +452,7 @@ nav .fas{
     .copyright{
         font-size: 14px;
     }
+
 }
 
 #msg{
@@ -443,19 +460,3 @@ nav .fas{
     margin-top: -40px;
     display: block;
 }
-/* Styles specific to smaller screens */
-@media (max-width: 768px) {
-    nav ul {
-      position: fixed; /* Or use absolute if needed */
-      top: 0; /* Adjust as needed */
-      left: -100%; /* Initially off-screen (adjust based on content width) */
-      width: 100%; /* Full screen width for smaller screens */
-      height: 100vh; /* Full viewport height */
-      z-index: 2;
-      transition: left 0.5s ease-in-out; /* Smooth transition */
-    }
-  }
-
-  .nav-open nav ul {
-    left: 0; /* Slide in navigation */
-  }
