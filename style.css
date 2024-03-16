@@ -388,11 +388,12 @@ nav .fas{
     }
     /* Header Top */
     #header-top {
-        height: 75px;
+        /* height: 60px; */
         position: fixed;
         left: 0;
         top: 0;
         right: 0;
+        bottom: auto;
         background:black;
     }
     nav .fas {
