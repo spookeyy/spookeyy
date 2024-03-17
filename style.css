@@ -48,6 +48,9 @@ nav{
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
+    position: sticky;
+    top: 0;
+    /* background-color: #000000; */
 }
 
 .logo{
@@ -452,6 +455,9 @@ nav .fas{
     .copyright{
         font-size: 14px;
     }
+    /* #sidemenu{
+        
+    } */
 
 }
 
