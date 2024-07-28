@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Meshack</h1>
 <h3 align="center">A passionate Software Engineer 💻</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlainmuhammadd&label=Profile%20views&color=0e75b6&style=flat" alt="spookeyy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=spookeyy&label=Profile%20views&color=0e75b6&style=flat" alt="spookeyy" /> </p>
 <!-- <p> 💻 Passionate about Flutter App Development 🚀 -->
 📚 Currently exploring Machine Learning, Artificial Intelligence and Data Science 🌐
 🎨 Hobbies include Graphic Design 
@@ -21,13 +21,24 @@
 <!-- <a href="https://instagram.com/saqlainmuhammadd" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
 <a href = "mailto:pangasmeshack@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="center" style="display: inline-flex; flex-direction: row; justify-content: space-between " >
 <a href="https://linkedin.com/in/meshack-kataboi-a6a03b240" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="meshackkataboi" height="30" width="40" /></a>
 <!-- <a href="https://www.youtube.com/c/saqlainmuhammadd" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="saqlainmuhammadd" height="30" width="40" /></a> -->
-<a href="https://leetcode.com/u/spookeyy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="saqlainmuhammadd" height="30" width="40" /></a>
+
+<!-- leetcode -->
+<a href="https://leetcode.com/spookeyy/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-spookeyy-FFA116?style=for-the-badge&logo=LeetCode" alt="LeetCode Profile" style="width: 300px; height: auto;">
+</a>
+<!-- <a href="https://leetcode.com/spookeyy/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/spookeyy?theme=dark&font=milonga&ext=heatmap" alt="LeetCode Stats" style="width: 495px; height: auto;">
+</a> -->
+
+<!-- <a href="https://leetcode.com/u/spookeyy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="spookeyy" height="30" width="40" /></a> -->
+
 <!-- <a href="https://stackoverflow.com/users/saqlainmuhammadd" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="saqlainmuhammadd" height="30" width="40" /></a> -->
 <!-- <a href="https://instagram.com/saqlainmuhammadd" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="saqlainmuhammadd" height="30" width="40" /></a> -->
-<a href="https://www.codewars.com/users/spookeyy" target="blank"><img align="center" src="https://www.codewars.com/users/spookeyy/badges/large" alt="CodeWars Badge" style="width: 300px; height: auto;"/></a></p>
+<a href="https://www.codewars.com/users/spookeyy" target="blank"><img align="center" src="https://www.codewars.com/users/spookeyy/badges/large" alt="CodeWars Badge" style="width: 300px; height: auto;"/></a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
