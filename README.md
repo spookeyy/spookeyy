@@ -31,9 +31,9 @@ and Video Editing 🎥
 <a href="https://leetcode.com/spookeyy/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-spookeyy-FFA116?style=for-the-badge&logo=LeetCode" alt="LeetCode Profile" style="width: 300px; height: auto;">
 </a>
-<a href="https://leetcode.com/spookeyy/" target="_blank">
+<!-- <a href="https://leetcode.com/spookeyy/" target="_blank">
   <img src="https://leetcard.jacoblin.cool/spookeyy?theme=dark&font=milonga&ext=heatmap" alt="LeetCode Stats" style="width: 495px; height: auto;">
-</a>
+</a> -->
 
 <!-- <a href="https://leetcode.com/u/spookeyy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="spookeyy" height="30" width="40" /></a> -->
 
