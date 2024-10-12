@@ -6,8 +6,8 @@
 <p> 💻 Passionate about Flutter App Development 🚀
 📚 Currently exploring Machine Learning, Artificial Intelligence and Data Science 🌐
 🎨 Hobbies include Graphic Design 
-and Video Editing 🎥
-📈 Always eager to learn and innovate in the tech world! 💡 </p> -->
+and Video Editing 🎥 -->
+📈 Always eager to learn and innovate in the tech world! 💡 </p>
 
 <!-- - 🌱 I’m currently learning **AI & ML**
 
