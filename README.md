@@ -33,6 +33,7 @@ and Video Editing 🎥 -->
 -->
 <a href = "mailto:pangasmeshack@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/celadaniel) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
 
 <!-- <h3 align="left">Connect with me:</h3>
 <div align="center" style="display: inline-flex; flex-direction: row; justify-content: space-between; " >
