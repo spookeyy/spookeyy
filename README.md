@@ -82,8 +82,8 @@ and Video Editing 🎥 -->
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
   <!-- ![Nginx](https://img.shields.io/badge/Nginx-269539?style=flat&logo=nginx&logoColor=white) -->
-  ![SEO](https://img.shields.io/badge/SEO-FFA500?style=flat&logo=google&logoColor=black)
-  ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
+  <!-- ![SEO](https://img.shields.io/badge/SEO-FFA500?style=flat&logo=google&logoColor=black) -->
+ <!--  ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white) -->
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
   <!-- ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white) -->
   <!-- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) -->
@@ -97,7 +97,7 @@ and Video Editing 🎥 -->
   <!-- ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white) -->
   <!-- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) -->
   <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) -->
-  <!-- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) -->
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
   <!-- ![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) -->
   <!-- ![TypeORM](https://img.shields.io/badge/TypeORM-FF6F00?style=flat&logo=typeorm&logoColor=white) -->
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -137,3 +137,4 @@ and Video Editing 🎥 -->
 <img src="ht<!-- tps://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe_illustrator-icon%20(1).svg -->
+
